@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.blog{
+    margin-top: 50px;
+    width: auto;
+    height: 300px;   
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.blog__text{
+    width: 500px;
+}
+p{
+    margin-top: 5px;
+    color: #666666;
+}
+.xemthem{
+    text-decoration: none;
+    color: red;
+}
+a{
+    text-decoration: none;
+}
